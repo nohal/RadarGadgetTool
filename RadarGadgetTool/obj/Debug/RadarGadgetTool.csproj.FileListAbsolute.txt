@@ -1,9 +1,0 @@
-C:\work\RadarGadgetTool\RadarGadgetTool\obj\Debug\ResolveAssemblyReference.cache
-C:\work\RadarGadgetTool\RadarGadgetTool\obj\Debug\RadarGadgetTool.RadarGadgetToolForm.resources
-C:\work\RadarGadgetTool\RadarGadgetTool\obj\Debug\RadarGadgetTool.Properties.Resources.resources
-C:\work\RadarGadgetTool\RadarGadgetTool\obj\Debug\RadarGadgetTool.csproj.GenerateResource.Cache
-C:\work\RadarGadgetTool\RadarGadgetTool\bin\Debug\RadarGadgetTool.exe
-C:\work\RadarGadgetTool\RadarGadgetTool\bin\Debug\RadarGadgetTool.pdb
-C:\work\RadarGadgetTool\RadarGadgetTool\obj\Debug\RadarGadgetTool.exe
-C:\work\RadarGadgetTool\RadarGadgetTool\obj\Debug\RadarGadgetTool.pdb
-C:\work\RadarGadgetTool\RadarGadgetTool\bin\Debug\RadarGadgetTool.exe.config
